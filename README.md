@@ -96,7 +96,7 @@ I established a relationship between the new and previous tables by using Power 
 
 ![](model-s-page.jpg)
 
-You can interact with the report by [clicking here](https://app.powerbi.com/view?r=eyJrIjoiMWI5YzFhZjAtMDUzOS00MTI5LWE1YTYtZDU4ZDlmYjU0Y2M4IiwidCI6ImZkMjljODFlLWI1YzUtNDAzNS1hZGIyLTBmMGJjODhiMzM2NyJ9)
+You can interact with the report by [clicking here](https://app.powerbi.com/view?r=eyJrIjoiM2QzNDhiY2UtMzNhZS00Yzg1LWFmMDItODI2MjNkN2UwOWM1IiwidCI6ImZkMjljODFlLWI1YzUtNDAzNS1hZGIyLTBmMGJjODhiMzM2NyJ9)
 
 ## Analysis
 
